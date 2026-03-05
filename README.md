@@ -85,4 +85,4 @@ budget-tracker/
 ## Author
 
 **Deniz Diloglu**  
-[GitHub](https://github.com/Wyskoln)
+[GitHub](https://github.com/denizdiloglu)
