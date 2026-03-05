@@ -1,0 +1,20 @@
+=== Budget Tracker Data ===
+
+Income: $0.00
+
+Expenses:
+  Housing: $0.00
+  Food: $0.00
+  Transportation: $0.00
+  Utilities: $0.00
+  Entertainment: $0.00
+  Healthcare: $0.00
+  Education: $0.00
+  Other: $0.00
+
+Total expenses: $0.00
+
+Debts:
+  None
+
+Remaining: $0.00
