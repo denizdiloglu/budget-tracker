@@ -3,7 +3,7 @@
 A command-line Python application that helps you manage your monthly finances by tracking income, expenses, and debts — then giving you instant analysis and plain-English recommendations.
 
 ---
-
+adsklklsad
 ## Features
 
 - **Income & Expense Tracking** — Enter spending across 8 categories (Housing, Food, Transportation, Utilities, Entertainment, Healthcare, Education, Other)
